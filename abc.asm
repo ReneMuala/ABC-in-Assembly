@@ -1,4 +1,4 @@
-:: abc.asm
+;; abc.asm
 ;; abc
 ;;
 ;; Created on 03/03/21 by Rene Muala
